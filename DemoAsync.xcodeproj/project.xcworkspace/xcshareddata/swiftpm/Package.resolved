@@ -1,0 +1,15 @@
+{
+  "originHash" : "645caec6a9e73546de1deb13b2f07fb11e93e7a84e1f541ba8faf8ca4206fa27",
+  "pins" : [
+    {
+      "identity" : "alkasyncnetwork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/iamaloke/ALKAsyncNetwork",
+      "state" : {
+        "branch" : "main",
+        "revision" : "acbe32fb7b072fadb14a2e2fa6b3b5c4bc1b0af3"
+      }
+    }
+  ],
+  "version" : 3
+}
